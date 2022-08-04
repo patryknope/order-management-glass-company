@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">projektSpecjalnosciowy</string>
+    <string name="zlecenia">Zlecenia</string>
+    <string name="loginPassword">Wprowadź hasło:</string>
+    <string name="loginMail">Wprowadź e-mail:</string>
+    <string name="login">Login</string>
+    <string name="registrationTextQuestion">Nie masz konta? Zarejestruj się!</string>
+    <string name="register">Zarejestruj się</string>
+    <string name="logoselect">logoSelect</string>
+    <string name="addOrder">Dodaj zlecenie</string>
+    <string name="liczba_sztuk">Liczba sztuk</string>
+    <string name="szt">Szt</string>
+    <string name="wymiar">Wymiar</string>
+
+    <string name="zlecenie">Zlecenie</string>
+
+    <string name="nr_telefonu">nr telefonu</string>
+    <string name="data">Data</string>
+    <string name="adddate">addDate</string>
+    <string name="anuluj">Anuluj</string>
+    <string name="zapisz">Zapisz</string>
+    <string name="telefon">Telefon</string>
+    <string name="usu">Usuń</string>
+    <string name="wyloguj">Wyloguj</string>
+    <string name="szk_o">Szkło</string>
+    <string name="podaj_dat">Podaj datę</string>
+    <string name="alreadyRegistered">Masz już konto? zaloguj się!</string>
+</resources>
